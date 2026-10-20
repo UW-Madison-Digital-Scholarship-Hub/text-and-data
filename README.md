@@ -8,7 +8,7 @@ All sessions are Tuesdays, 1:00–2:30 p.m., in Memorial Library 231 (second flo
 |---|----------|------|
 | 1 | [From Page to Pixel—Digitization, OCR, and Making Texts into Data](01-page-to-pixel/) | September 22, 2026 |
 | 2 | [Excavating Texts—Data Sources, Mining, and Ownership](02-excavating-texts/) | October 6, 2026 |
-| 3 | What's in a Word—Breaking Texts and Making Data | October 20, 2026 |
+| 3 | [What's in a Word—Breaking Texts and Making Data](03-Tokenization/) | October 20, 2026 |
 | 4 | The Math of Meaning—Counting and Modeling Textual Data | November 3, 2026 |
 | 5 | Making Text—Computational Language Generation | November 17, 2026 |
 
